@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-bottom{
+    border-bottom:2px solid black;
+    border-width:10px;
+    border:none;
+}
+
+.text-size{
+    font-size: 13px;
+}
+
+.padding-top{
+    padding-top: 3px;
+}
+
+.red-color{
+    background-color:#ff1d1d;
+}
+
+.red-text{
+    color:#ff1d1d;
+}
+
+.red-border{
+   border:1px solid #ff1d1d;
+}
+
+.text-size-2{
+    font-size: 25px;
+}
